@@ -6,4 +6,4 @@ function Square({ value, onClick }) {
   )
 }
 
-export default Square
+export default Square;
